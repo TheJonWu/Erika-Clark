@@ -12,3 +12,6 @@ Static portfolio website ready for GitHub Pages.
 
 ## Privacy
 The public site intentionally omits Erika's street address and phone number. Review the email address before publishing.
+
+## Version 3 design
+Uses Erika's preferred pink as a professional dusty-rose accent (`#C9828F`) with blush, charcoal, and warm-white tones.
